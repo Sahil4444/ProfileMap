@@ -12,3 +12,7 @@ I also created an "Admin Dashboard":
         1. /ProfileMap/a6.jpg
         1. /ProfileMap/a7.jpg
         1. /ProfileMap/sahil.jpg
+
+
+Project url: https://sahil4444.github.io/ProfileMap/
+Github Repo: https://github.com/Sahil4444/ProfileMap 
