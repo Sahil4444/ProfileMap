@@ -12,7 +12,6 @@ import {
   MapIcon,
   UserRound,
 } from "lucide-react";
-import avatar from "/a1.jpg";
 import placeHolderJpg from "/placeholder.svg";
 
 export function ProfileList({
