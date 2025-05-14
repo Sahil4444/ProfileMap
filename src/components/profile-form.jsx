@@ -197,7 +197,7 @@ export function ProfileForm({ profile, onSubmit, onCancel }) {
                     name="avatar"
                     value={formData.avatar}
                     onChange={handleChange}
-                    placeholder="Use online url or /ProfileMap/a3.jpg"
+                    placeholder="Use online url or use: /ProfileMap/assets/image_name.jpg"
                   />
                 </div>
 

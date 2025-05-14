@@ -3,14 +3,13 @@
 import { useState, useEffect } from "react"
 import { v4 as uuidv4 } from "uuid"
 
-import a1 from "/ProfileMap/public/a1.jpg";
-import a2 from "/ProfileMap/a2.jpg";
-import a3 from "/ProfileMap/a3.jpg";
-import a4 from "/ProfileMap/a4.jpg";
-import a5 from "/ProfileMap/a5.jpg";
-import a6 from "/ProfileMap/a6.jpg";
-import a7 from "/ProfileMap/a7.jpg";
-import sahil from "/ProfileMap/sahil.jpg";
+import a1 from "./assets/a1.jpg";
+import a2 from "./assets/a2.jpg";
+import a3 from "./assets/a3.jpg";
+import a4 from "./assets/a4.jpg";
+import a5 from "./assets/a5.jpg";
+import a6 from "./assets/a6.jpg";
+import a7 from "./assets/a7.jpg";
 
 
 // public\a1.jpg
